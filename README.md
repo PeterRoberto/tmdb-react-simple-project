@@ -4,6 +4,10 @@
 
 - Node.js 16+ e npm ou yarn
 
+# clonar o repositório
+git clone https://github.com/PeterRoberto/tmdb-react-simple-project.git
+cd tmdb-react-simple-project
+
 ## Como usar (desenvolvimento)
 
 1. Instale dependências:
